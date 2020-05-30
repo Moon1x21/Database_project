@@ -19,5 +19,5 @@ var server = http.createServer(function(request,response){
 });
 
 server.listen(8080, function(){
-    console.log('Server is running...');
+    console.log('Server is now running...');
 });
